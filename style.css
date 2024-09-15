@@ -6,11 +6,21 @@
    margin-left: 10px;
 }
 
+body{
+    display: flex;
+    justify-content: center;
+}
+
 .container .card {
-margin: 5px;
+margin: 10px;
 box-shadow: 1px 1px 1px 1px rgb(189, 189, 189);
 
 border: 1px solid black;
 border-radius: 5px;
 text-align: center;
 }
+
+.container img {
+    width: 80%;
+ 
+    }
